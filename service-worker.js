@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/creditCalculator/precache-manifest.a79fc93bd8634c3a063e135380d326e5.js"
+  "/creditCalculator/precache-manifest.3ecc860773929bc11edb0b55322e32a2.js"
 );
 
 self.addEventListener('message', (event) => {
